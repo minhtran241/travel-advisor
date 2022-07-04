@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='./public/logo.png' width='100px' height='100px'/>
+<img src='./public/logo2.png' width='150px' height='150px'/>
 </div>
 <div align='center'>
 <h1> Travel Advisor </h1>
