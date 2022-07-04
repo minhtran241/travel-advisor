@@ -2,12 +2,12 @@
 <img src='./public/logo2.png' width='150px' height='150px'/>
 </div>
 <div align='center'>
-<h1> Travel Advisor </h1>
+<h1>🗺 Travel Advisor 🗺</h1>
 </div>
 
 ### ✅ Travel Advisor
 
-### _Explore all information about Restaurants, Hotels and Attractions around you 🔍_
+### _Explore all information about Restaurants, Hotels and Attractions around you  🔍 🗺_
 
 ### Link :link: https://travel-advisor-minhtran.netlify.app/
 
